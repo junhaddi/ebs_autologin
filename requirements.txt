@@ -1,0 +1,4 @@
+certifi==2018.8.24
+selenium==3.141.0
+urllib3==1.25.8
+wincertstore==0.2
